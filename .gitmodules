@@ -1,0 +1,3 @@
+[submodule "map_detection"]
+	path = map_detection
+	url = https://github.com/bakhtos/MAPdetection.git
